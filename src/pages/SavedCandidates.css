@@ -1,0 +1,6 @@
+.savedUserCard{
+    display: flex;
+}
+.savedUserCard img{
+    width: 150px;
+}
